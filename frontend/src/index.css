@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 antialiased;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom scrollbar for markdown preview */
+.prose-container::-webkit-scrollbar {
+  width: 8px;
+}
+.prose-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+.prose-container::-webkit-scrollbar-thumb {
+  background-color: #cbd5e1;
+  border-radius: 20px;
+}
