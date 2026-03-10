@@ -54,23 +54,59 @@ YAML	Workflow configuration
 
 
 README-Genesis
+
+
 │
+
+
 ├── frontend
+
+
 │   ├── index.html
+
+
 │   ├── style.css
+
+
 │   └── script.js
+
+
 │
+
+
 ├── backend
+
+
 │   ├── server.js
+
+
 │   └── routes
+
+
 │
+
+
 ├── generator
+
+
 │   └── readme-engine.js
+
+
 │
+
+
 ├── .github
+
+
 │   └── workflows
+
+
 │       └── auto-readme.yml
+
+
 │
+
+
 └── README.md
 
 
@@ -124,5 +160,6 @@ Full Stack Developer
 
 GitHub
 https://github.com/puneth8
+
 
 
