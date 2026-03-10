@@ -51,6 +51,8 @@ YAML	Workflow configuration
 
 
 🏗️ Project Structure
+
+
 README-Genesis
 │
 ├── frontend
@@ -70,6 +72,8 @@ README-Genesis
 │       └── auto-readme.yml
 │
 └── README.md
+
+
 ⚙️ Installation
 
 Clone the repository
@@ -120,4 +124,5 @@ Full Stack Developer
 
 GitHub
 https://github.com/puneth8
+
 
